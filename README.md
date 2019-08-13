@@ -1,2 +1,2 @@
 # GOF
-Gang of Four Design Pattern
+Gang of Four Design Pattern with JAVA
